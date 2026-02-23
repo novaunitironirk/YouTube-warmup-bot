@@ -1,0 +1,7 @@
+version: '3'
+services:
+  youtube-warmup:
+    build: .
+    container_name: youtube-warmup-automation
+    volumes:
+      - .:/app

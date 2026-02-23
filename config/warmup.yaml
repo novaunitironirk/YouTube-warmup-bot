@@ -1,0 +1,5 @@
+warmup:
+  session_duration_minutes: 30
+  max_videos_per_session: 15
+  min_watch_seconds: 30
+  max_watch_seconds: 120

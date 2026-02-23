@@ -1,0 +1,4 @@
+pacing:
+  min_delay_seconds: 3
+  max_delay_seconds: 6
+  max_retries: 2
